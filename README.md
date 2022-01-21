@@ -1,0 +1,1 @@
+# twrp_device_coolpad_k69v1_64
